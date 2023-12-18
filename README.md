@@ -2,9 +2,6 @@
 
 <h1 align="center"><i>A passionate Student and Developer</i> 😎</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavoselman&label=Profile%20views&color=0e75b6&style=flat" alt="gustavoselman" /> </p>
-
-
 # About me
 I'm a **Software Engineering** student at the Pontificia Universidad Católica de Chile. I'm passionate about technology and I love learning new things 🚀. I'm currently working part-time in **AG Business** as Developer and I'm also a **Teaching Assistant** in the courses of _Introduction to Programming_, _Computer Exploration_ and _Advanced Programming_ at my university.
 
@@ -67,6 +64,8 @@ I'm a **Software Engineering** student at the Pontificia Universidad Católica d
 
 
 # GitHub Stats
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavoselman&label=Profile%20views&color=0e75b6&style=flat" alt="gustavoselman" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavoselman&show_icons=true&locale=en&layout=compact" alt="gustavoselman" /></p>
 
