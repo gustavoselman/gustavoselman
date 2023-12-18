@@ -2,7 +2,7 @@
 
 <h1 align="center"><i>A passionate Student and Developer</i> 😎</h1>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavoselman&label=Profile%20views&color=0e75b6&style=flat" alt="gustavoselman" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavoselman&label=Profile%20views&color=0e75b6&style=flat" alt="gustavoselman" /> </p>
 
 
 # About me
