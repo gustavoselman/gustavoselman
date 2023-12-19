@@ -8,6 +8,7 @@ I'm a **Software Engineering** student at the Pontificia Universidad Católica d
 # Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-selman) 
+[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/gustavoselman)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/gustavoselman) 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:gustavo.selman@uc.cl)
 
@@ -61,17 +62,27 @@ I'm a **Software Engineering** student at the Pontificia Universidad Católica d
 [![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=material-ui&logoColor=white)](https://mui.com/)
 [![Bulma](https://img.shields.io/badge/Bulma-%23000000.svg?style=flat&logo=bulma&logoColor=white)](https://bulma.io/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-%23007ACC.svg?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=trello&logoColor=white)](https://trello.com/)
+[![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=flat&logo=latex&logoColor=white)](https://www.latex-project.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![WSL 2](https://img.shields.io/badge/WSL%202-%23007CFF.svg?style=flat&logo=windows&logoColor=white)](https://docs.microsoft.com/en-us/windows/wsl/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 
 
 # GitHub Stats
 
+<!-- Profile views -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavoselman&label=Profile%20views&color=0e75b6&style=flat" alt="gustavoselman" /> </p>
 
+<!-- Most Used Languages -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavoselman&show_icons=true&locale=en&layout=compact" alt="gustavoselman" /></p>
 
+<!-- Gustavo Selman's Github Stats -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gustavoselman&show_icons=true&locale=en" alt="gustavoselman" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavoselman&" alt="gustavoselman" /></p>
+<!-- Current Streak -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavoselman&" alt="gustavoselman" /></p> -->
 
 
 _I have one older GitHub account with numerous commits for university purposes, and a separate GitHub account for my work as a developer. This account is exclusively dedicated to personal projects._
