@@ -3,7 +3,7 @@
 <h1 align="center"><i>A passionate Student and Developer</i> 😎</h1>
 
 # About me
-I'm a **Software Engineering** student at the Pontificia Universidad Católica de Chile. I'm passionate about technology and I love learning new things 🚀. I'm currently working part-time in **AG Business** as Developer and I'm also a **Teaching Assistant** in the courses of _Introduction to Programming_, _Computer Exploration_ and _Advanced Programming_ at my university.
+I'm a Software Engineering student at Pontificia Universidad Católica de Chile. I'm passionate about technology, and I love learning new things 🚀. Currently, I'm studying informatics at Universitat Politècnica de València (UPV). I'm currently in my final courses of the degree, and I'll be graduating in 2024. Additionally, I have been a teaching assistant for Introduction to Programming, Computer Exploration, and Advanced Programming courses at Pontificia Universidad Católica de Chile.
 
 # Connect with me
 
