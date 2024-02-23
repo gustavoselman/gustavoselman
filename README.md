@@ -24,7 +24,6 @@ I'm a **Software Engineering** student at the Pontificia Universidad Católica d
 [![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)](https://golang.org/)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)](https://angular.io/)
 [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=61DAFB)](https://expressjs.com/)
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](https://www.w3.org/html/)
@@ -37,7 +36,7 @@ I'm a **Software Engineering** student at the Pontificia Universidad Católica d
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/)
 [![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?style=flat&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
 [![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+<!-- [![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/) -->
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)](https://www.heroku.com/)
 [![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat&logo=netlify&logoColor=00C7B7)](https://www.netlify.com/)
