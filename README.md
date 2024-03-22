@@ -16,12 +16,10 @@ I'm a Software Engineering student at Pontificia Universidad Católica de Chile.
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://www.python.org/)
-<!-- [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) -->
 [![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)](https://www.w3schools.com/cs/)
 [![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)](https://www.w3schools.com/cs/)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)](https://www.w3schools.com/cpp/)
 [![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)](https://www.php.net/)
-<!-- [![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/) -->
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)](https://golang.org/)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
@@ -37,7 +35,6 @@ I'm a Software Engineering student at Pontificia Universidad Católica de Chile.
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/)
 [![GitLab](https://img.shields.io/badge/GitLab-%23FCA121.svg?style=flat&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
 [![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
-<!-- [![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/) -->
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)](https://www.heroku.com/)
 [![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat&logo=netlify&logoColor=00C7B7)](https://www.netlify.com/)
@@ -52,13 +49,11 @@ I'm a Software Engineering student at Pontificia Universidad Católica de Chile.
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=white)](https://www.linux.org/)
 [![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-<!-- [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) -->
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 [![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat&logo=expo&logoColor=D04A37)](https://expo.dev/)
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=61DAFB)](https://expressjs.com/)
 [![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
-<!-- [![Rails](https://img.shields.io/badge/Rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org/) -->
 [![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=material-ui&logoColor=white)](https://mui.com/)
 [![Bulma](https://img.shields.io/badge/Bulma-%23000000.svg?style=flat&logo=bulma&logoColor=white)](https://bulma.io/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
@@ -68,6 +63,11 @@ I'm a Software Engineering student at Pontificia Universidad Católica de Chile.
 [![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![WSL 2](https://img.shields.io/badge/WSL%202-%23007CFF.svg?style=flat&logo=windows&logoColor=white)](https://docs.microsoft.com/en-us/windows/wsl/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+<!-- [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) -->
+<!-- [![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/) -->
+<!-- [![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/) -->
+<!-- [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) -->
+<!-- [![Rails](https://img.shields.io/badge/Rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org/) -->
 
 
 # GitHub Stats
